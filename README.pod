@@ -17,6 +17,10 @@ To install this module, run the following commands:
     make test
     make install
 
+You may also install this module from CPAN:
+    
+    cpan Term::ExtendedColor
+
 =head1 HOMEPAGE AND SOURCE REPOSITORY
 
 The Term::ExtendedColor web page at:
